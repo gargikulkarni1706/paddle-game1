@@ -1,1 +1,2 @@
-# paddle-game1
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
